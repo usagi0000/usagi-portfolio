@@ -80,8 +80,8 @@ interface GardenState {
 
 export function initHanamori(): () => void {
   const cleanups: Array<() => void> = [];
-  const flower: HTMLElement = need<HTMLElement>(document.getElementById("hero-flower"));
-  const flowerDrawing: HTMLElement = need<HTMLElement>(document.getElementById("flower-drawing"));
+  const flower: SVGGElement = need<SVGGElement>(document.getElementById("hero-flower"));
+  const flowerDrawing: SVGGElement = need<SVGGElement>(document.getElementById("flower-drawing"));
   const progress: HTMLElement = need<HTMLElement>(document.getElementById("flower-pet-progress"));
   const dialog: HTMLDialogElement = need<HTMLDialogElement>(document.getElementById("garden-dialog"));
   const canvas: HTMLCanvasElement = need<HTMLCanvasElement>(document.getElementById("garden-canvas"));
@@ -96,8 +96,8 @@ export function initHanamori(): () => void {
   const announcement: HTMLElement = need<HTMLElement>(document.getElementById("garden-announcement"));
   const closeButton: HTMLElement = need<HTMLElement>(document.getElementById("garden-close"));
   if (
-    !(flower instanceof HTMLElement) ||
-    !(flowerDrawing instanceof HTMLElement) ||
+    !(flower instanceof SVGGElement) ||
+    !(flowerDrawing instanceof SVGGElement) ||
     !(progress instanceof HTMLElement) ||
     !(dialog instanceof HTMLDialogElement) ||
     !(canvas instanceof HTMLCanvasElement) ||
@@ -120,6 +120,7 @@ export function initHanamori(): () => void {
   const on = (
     target:
       | HTMLElement
+      | SVGElement
       | HTMLDialogElement
       | HTMLCanvasElement
       | Window

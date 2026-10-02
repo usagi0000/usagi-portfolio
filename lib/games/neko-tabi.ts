@@ -50,8 +50,8 @@ interface NekoState {
 
 export function initNekoTabi(): () => void {
   const cleanups: Array<() => void> = [];
-  const heroCat: HTMLElement = need<HTMLElement>(document.getElementById("hero-cat"));
-  const catDrawing: HTMLElement = need<HTMLElement>(document.getElementById("cat-drawing"));
+  const heroCat: SVGGElement = need<SVGGElement>(document.getElementById("hero-cat"));
+  const catDrawing: SVGGElement = need<SVGGElement>(document.getElementById("cat-drawing"));
   const petProgress: HTMLElement = need<HTMLElement>(document.getElementById("cat-pet-progress"));
   const dialog: HTMLDialogElement = need<HTMLDialogElement>(document.getElementById("game-dialog"));
   const canvas: HTMLCanvasElement = need<HTMLCanvasElement>(document.getElementById("game-canvas"));
@@ -65,8 +65,8 @@ export function initNekoTabi(): () => void {
   const announcement: HTMLElement = need<HTMLElement>(document.getElementById("game-announcement"));
   const closeButton: HTMLElement = need<HTMLElement>(document.getElementById("game-close"));
   if (
-    !(heroCat instanceof HTMLElement) ||
-    !(catDrawing instanceof HTMLElement) ||
+    !(heroCat instanceof SVGGElement) ||
+    !(catDrawing instanceof SVGGElement) ||
     !(petProgress instanceof HTMLElement) ||
     !(dialog instanceof HTMLDialogElement) ||
     !(canvas instanceof HTMLCanvasElement) ||
@@ -86,7 +86,7 @@ export function initNekoTabi(): () => void {
   const g: CanvasRenderingContext2D = need(canvas.getContext("2d"));
 
   const on = (
-    target: HTMLElement | HTMLDialogElement | HTMLCanvasElement | Window | Document,
+    target: HTMLElement | SVGElement | HTMLDialogElement | HTMLCanvasElement | Window | Document,
     type: string,
     listener: EventListener,
     options?: AddEventListenerOptions,
