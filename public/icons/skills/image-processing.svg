@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title desc">
+  <title id="title">Image Processing skill sticker</title>
+  <desc id="desc">A pastel landscape image with crop corners and adjustment sliders.</desc>
+  <metadata>Original portfolio illustration. Uses the approved cream, plum, pink, butter, mint, and lilac illustration palette.</metadata>
+  <g stroke="#30253a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <rect x="11" y="10" width="41" height="40" rx="5" fill="#fffefa"/>
+    <rect x="16" y="15" width="31" height="28" rx="3" fill="#ddd0f4" stroke="none"/>
+    <circle cx="24" cy="24" r="5" fill="#f7df86" stroke="none"/>
+    <path d="m16 42 9-12 8 8 5-6 9 10Z" fill="#c9e9de" stroke-width="1.8"/>
+    <path d="M5 17V6h11m31 48h11V43" fill="none" stroke="#c95883"/>
+    <path d="M9 52h28M9 58h28" fill="none" stroke="#a88bd0" stroke-width="2"/>
+    <circle cx="19" cy="52" r="2.5" fill="#f3a6bd" stroke-width="1.5"/>
+    <circle cx="29" cy="58" r="2.5" fill="#f7df86" stroke-width="1.5"/>
+
+    <path d="m56 3 1.5 3.5L61 8l-3.5 1.5L56 13l-1.5-3.5L51 8l3.5-1.5Z" fill="#f7df86" stroke-width="1.5"/>
+    <circle cx="5" cy="46" r="2" fill="#f3a6bd" stroke="none"/>
+  </g>
+</svg>

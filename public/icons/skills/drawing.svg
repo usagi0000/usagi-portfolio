@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title desc">
+  <title id="title">Drawing skill sticker</title>
+  <desc id="desc">A happy yellow pencil with a pink eraser.</desc>
+  <metadata>Original portfolio illustration. Uses the approved cream, plum, pink, butter, mint, and lilac illustration palette.</metadata>
+  <g stroke="#30253a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <g transform="rotate(38 32 32)">
+      <path d="M24 15a7 7 0 0 1 7-7h2a7 7 0 0 1 7 7v34l-8 10-8-10Z" fill="#fffefa" stroke="#fffefa" stroke-width="6"/>
+      <path d="M24 15a7 7 0 0 1 7-7h2a7 7 0 0 1 7 7v34l-8 10-8-10Z" fill="#f7df86"/>
+      <path d="M24 18v-3a7 7 0 0 1 7-7h2a7 7 0 0 1 7 7v3Z" fill="#f3a6bd"/>
+      <path d="M24 49h16l-8 10Z" fill="#fff2e8"/>
+      <path d="m28 55 4 4 4-4" fill="#30253a" stroke="none"/>
+      <path d="M28 39v5m8-5v5" fill="none" stroke="#c4a659" stroke-width="1.5"/>
+      <path d="M27 27q1.5-2 3 0m4 0q1.5-2 3 0M30 32q2 2 4 0" fill="none" stroke-width="1.5"/>
+      <path d="M26 31h.1m12 0h.1" stroke="#f3a6bd" stroke-width="3"/>
+    </g>
+
+    <path d="m56 3 1.5 3.5L61 8l-3.5 1.5L56 13l-1.5-3.5L51 8l3.5-1.5Z" fill="#f7df86" stroke-width="1.5"/>
+    <circle cx="5" cy="46" r="2" fill="#f3a6bd" stroke="none"/>
+  </g>
+</svg>

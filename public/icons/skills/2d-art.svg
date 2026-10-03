@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title desc">
+  <title id="title">2D Art skill sticker</title>
+  <desc id="desc">A happy paint palette with pastel paint dots and a brush.</desc>
+  <metadata>Original portfolio illustration. Uses the approved cream, plum, pink, butter, mint, and lilac illustration palette.</metadata>
+  <g stroke="#30253a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M32 8C18 8 7 18 7 32s9 24 20 24c7 0 10-6 7-11-3-4 0-9 5-8 8 2 17-3 17-13C56 15 45 8 32 8Z" fill="#fffefa" stroke="#fffefa" stroke-width="6"/>
+    <path d="M32 8C18 8 7 18 7 32s9 24 20 24c7 0 10-6 7-11-3-4 0-9 5-8 8 2 17-3 17-13C56 15 45 8 32 8Z" fill="#f7df86"/>
+    <circle cx="22" cy="20" r="4" fill="#f3a6bd" stroke-width="1.8"/>
+    <circle cx="35" cy="17" r="4" fill="#c9e9de" stroke-width="1.8"/>
+    <circle cx="45" cy="26" r="4" fill="#ddd0f4" stroke-width="1.8"/>
+    <path d="M17 34q2-3 4 0m6 0q2-3 4 0M22 39q2 2.5 4 0" fill="none" stroke-width="1.8"/>
+    <path d="m39 47 19 9-3 5-19-10Z" fill="#f3a6bd" stroke-width="2"/>
+    <path d="m36 51-5-5q8-6 12 0l-4 5Z" fill="#a88bd0" stroke-width="2"/>
+
+    <path d="m56 3 1.5 3.5L61 8l-3.5 1.5L56 13l-1.5-3.5L51 8l3.5-1.5Z" fill="#f7df86" stroke-width="1.5"/>
+    <circle cx="5" cy="46" r="2" fill="#f3a6bd" stroke="none"/>
+  </g>
+</svg>

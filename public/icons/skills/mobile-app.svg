@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title desc">
+  <title id="title">Mobile App Development skill sticker</title>
+  <desc id="desc">A smiling pink phone with a small yellow app tile.</desc>
+  <metadata>Original portfolio illustration. Uses the approved cream, plum, pink, butter, mint, and lilac illustration palette.</metadata>
+  <g stroke="#30253a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <rect x="18" y="6" width="30" height="52" rx="8" fill="#fffefa"/>
+    <rect x="22" y="12" width="22" height="37" rx="4" fill="#f3a6bd" stroke="none"/>
+    <path d="M29 10h8M30 53h6"/>
+    <g fill="#f3a6bd" stroke="none"><ellipse cx="24" cy="27" rx="2.5" ry="1.6"/><ellipse cx="42" cy="27" rx="2.5" ry="1.6"/></g><path d="M26 24q2-3 4 0m6 0q2-3 4 0M31 28q2 2.5 4 0" fill="none" stroke="#30253a" stroke-width="1.9"/>
+    <rect x="28" y="37" width="10" height="7" rx="2" fill="#f7df86" stroke-width="1.8"/>
+
+    <path d="m56 3 1.5 3.5L61 8l-3.5 1.5L56 13l-1.5-3.5L51 8l3.5-1.5Z" fill="#f7df86" stroke-width="1.5"/>
+    <circle cx="5" cy="46" r="2" fill="#f3a6bd" stroke="none"/>
+  </g>
+</svg>

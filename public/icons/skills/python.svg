@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title desc">
+  <title id="title">Python skill sticker</title>
+  <desc id="desc">Two interlocking blue and yellow Python snakes with a happy face and sparkle.</desc>
+  <metadata>Custom hand-drawn adaptation inspired by the Python Software Foundation logo, https://www.python.org/community/logos/. Changes: simplified interlocking snakes, sticker border, face, and sparkle.</metadata>
+  <path d="M18 7h28a8 8 0 0 1 8 8v34a8 8 0 0 1-8 8H18a8 8 0 0 1-8-8V15a8 8 0 0 1 8-8Z" fill="#fffefa" stroke="#30253a" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M31 12h6c7 0 10 3 10 9v6H30c-3 0-5 2-5 5v7h-4c-6 0-9-3-9-9v-8c0-6 4-10 10-10Zm4 5a2 2 0 1 0 0 4 2 2 0 0 0 0-4Z" fill="#3776ab"/>
+  <path d="M33 52h-6c-7 0-10-3-10-9v-6h17c3 0 5-2 5-5v-7h4c6 0 9 3 9 9v8c0 6-4 10-10 10Zm-4-6a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z" fill="#ffd43b"/>
+  <path d="m56 3 1.5 3.5L61 8l-3.5 1.5L56 13l-1.5-3.5L51 8l3.5-1.5Z" fill="#f7df86" stroke="#30253a" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

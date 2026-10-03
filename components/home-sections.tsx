@@ -1,4 +1,7 @@
+import Image from "next/image";
 import Link from "next/link";
+
+import { SKILLS } from "@/lib/skill-data";
 
 export function HomeSections() {
   return (
@@ -103,7 +106,7 @@ export function HomeSections() {
 <h3>Kika Maison</h3>
 <p className="experience-role">Web Design &amp; Development</p>
 <ul>
-<li>Worked on a web presence project as part of the user's portfolio of web and design work.</li>
+<li>Worked on a web presence project as part of the user&apos;s portfolio of web and design work.</li>
 <li>Applied a combination of visual design and front-end development skills to create a polished digital experience.</li>
 </ul>
 </div>
@@ -126,7 +129,7 @@ export function HomeSections() {
 <span className="section-kicker">04 · Languages</span>
 <h2 id="languages-title">Languages</h2>
 </div>
-<p>Heart ratings shown on the original portfolio</p>
+<p>Languages I speak and study</p>
 </div>
 <div className="language-grid">
 <article className="language-card">
@@ -135,15 +138,15 @@ export function HomeSections() {
 </article>
 <article className="language-card">
 <div className="language-topline"><h3>English</h3><span aria-hidden="true" className="language-mark">A</span></div>
-<div aria-label="English: 5 of 6 hearts" className="hearts"><span aria-hidden="true">♥ ♥ ♥ ♥ ♥ <span className="heart-empty">♡</span></span><span className="sr-only">5 of 6 hearts</span></div>
+<div aria-label="English: 6 of 6 hearts" className="hearts"><span aria-hidden="true">♥ ♥ ♥ ♥ ♥ ♥</span><span className="sr-only">6 of 6 hearts</span></div>
 </article>
 <article className="language-card">
 <div className="language-topline"><h3>French</h3><span aria-hidden="true" className="language-mark">É</span></div>
-<div aria-label="French: 3 of 6 hearts" className="hearts"><span aria-hidden="true">♥ ♥ ♥ <span className="heart-empty">♡ ♡ ♡</span></span><span className="sr-only">3 of 6 hearts</span></div>
+<div aria-label="French: 5 of 6 hearts" className="hearts"><span aria-hidden="true">♥ ♥ ♥ ♥ ♥ <span className="heart-empty">♡</span></span><span className="sr-only">5 of 6 hearts</span></div>
 </article>
 <article className="language-card">
 <div className="language-topline"><h3>Japanese</h3><span aria-hidden="true" className="language-mark">あ</span></div>
-<div aria-label="Japanese: 1 of 6 hearts" className="hearts"><span aria-hidden="true">♥ <span className="heart-empty">♡ ♡ ♡ ♡ ♡</span></span><span className="sr-only">1 of 6 hearts</span></div>
+<div aria-label="Japanese: 3 of 6 hearts" className="hearts"><span aria-hidden="true">♥ ♥ ♥ <span className="heart-empty">♡ ♡ ♡</span></span><span className="sr-only">3 of 6 hearts</span></div>
 </article>
 </div>
 </section>
@@ -218,7 +221,14 @@ export function HomeSections() {
 </div>
 <p>Creative, technical, and office skills</p>
 </div>
-<div className="tag-grid"><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> HTML</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> CSS</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> JavaScript</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> Liquid</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> Shopify</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> Dawn Theme</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> Metafields</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> Python</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> PHP</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> UI/UX Design</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> Web Design</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> Figma</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> Graphic Design</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> Digital Illustration</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> 2D Art</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> Blender</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> 3D Modeling</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> Product Rendering</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> Image Processing</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> Satellite Image Processing</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> Microsoft Word</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> PowerPoint</span><span className="skill-tag"><span aria-hidden="true" className="skill-dot">✦</span> Excel</span></div>
+<div className="tag-grid">
+  {SKILLS.map((skill) => (
+    <span className="skill-tag" key={skill.icon}>
+      <Image alt="" aria-hidden="true" className="skill-icon" src={`/icons/skills/${skill.icon}.svg`} width={36} height={36} />
+      <span className="skill-label">{skill.label}</span>
+    </span>
+  ))}
+</div>
 </section>
 <section aria-labelledby="interest-title" className="section" id="interest">
 <div className="section-heading">

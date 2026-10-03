@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title desc">
+  <title id="title">Shopify theme skill sticker</title>
+  <desc id="desc">A green Shopify shopping bag paired with a tiny lilac theme layout swatch.</desc>
+  <metadata>Custom illustration based on Shopify's green shopping bag identity. Reference: https://www.shopify.com/brand-assets. Bag sticker treatment and theme layout swatch are original adaptations.</metadata>
+  <path d="M7 19 10 48h27l2-29-8-2-4 2-2-7H17l-2 7Z" fill="#95bf47" stroke="#fffefa" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M7 19 10 48h27l2-29-8-2-4 2-2-7H17l-2 7Z" fill="#95bf47" stroke="#30253a" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M17 20c1-6 4-10 8-10 3 0 6 3 7 9" fill="none" stroke="#30253a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M25 25c-4 0-6 2-6 5 0 2 2 4 5 5 2 1 3 2 3 3 0 2-1 2-3 2-2 0-4-1-5-2l-2 4c2 1 4 2 7 2 5 0 8-2 8-6 0-3-2-5-6-7-2-1-3-2-3-3 0-1 1-2 3-2s3 1 4 2l2-4c-2-1-4-2-7-2Z" fill="#ffffff"/>
+  <rect x="38" y="26" width="20" height="23" rx="4" fill="#fffefa" stroke="#30253a" stroke-width="2.5"/>
+  <rect x="42" y="30" width="12" height="7" rx="1.5" fill="#ddd0f4" stroke="#30253a" stroke-width="1.5"/>
+  <path d="M42 41h4m3 0h5m-12 4h7m3 0h2" fill="none" stroke="#30253a" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="m57 6 1.1 2.6 2.6 1.1-2.6 1.1-1.1 2.6-1.1-2.6-2.6-1.1 2.6-1.1Z" fill="#f7df86" stroke="#30253a" stroke-width="1.2" stroke-linejoin="round"/>
+  <circle cx="5" cy="52" r="2" fill="#f3a6bd"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title desc">
+  <title id="title">Graphic Design skill sticker</title>
+  <desc id="desc">A pink pen-tool nib and an editable Bezier curve.</desc>
+  <metadata>Original portfolio illustration. Uses the approved cream, plum, pink, butter, mint, and lilac illustration palette.</metadata>
+  <g stroke="#30253a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M7 19q24-24 49 0" fill="none" stroke="#a88bd0"/>
+    <path d="M7 19h49" fill="none" stroke="#a88bd0" stroke-width="1.6"/>
+    <rect x="4" y="16" width="6" height="6" rx="1.5" fill="#c9e9de" stroke-width="1.8"/>
+    <rect x="53" y="16" width="6" height="6" rx="1.5" fill="#c9e9de" stroke-width="1.8"/>
+    <path d="m32 17 15 19-15 20-15-20Z" fill="#fffefa" stroke="#fffefa" stroke-width="6"/>
+    <path d="m32 17 15 19-15 20-15-20Z" fill="#f3a6bd"/>
+    <path d="M32 42v13" fill="none"/>
+    <circle cx="32" cy="37" r="4" fill="#fffefa" stroke-width="2"/>
+    <path d="M25 28q2-2 4 0m6 0q2-2 4 0" fill="none" stroke-width="1.8"/>
+
+    <path d="m56 3 1.5 3.5L61 8l-3.5 1.5L56 13l-1.5-3.5L51 8l3.5-1.5Z" fill="#f7df86" stroke-width="1.5"/>
+    <circle cx="5" cy="46" r="2" fill="#f3a6bd" stroke="none"/>
+  </g>
+</svg>

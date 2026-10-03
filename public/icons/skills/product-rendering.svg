@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title desc">
+  <title id="title">Product Rendering skill sticker</title>
+  <desc id="desc">A rendered pastel cube in a picture frame with studio light.</desc>
+  <metadata>Original portfolio illustration. Uses the approved cream, plum, pink, butter, mint, and lilac illustration palette.</metadata>
+  <g stroke="#30253a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <rect x="6" y="15" width="51" height="40" rx="7" fill="#fffefa"/>
+    <rect x="10" y="20" width="43" height="30" rx="3" fill="#ddd0f4" stroke="none"/>
+    <path d="m34 20 13 27H23Z" fill="#fff6d7" opacity=".7" stroke="none"/>
+    <ellipse cx="32" cy="46" rx="13" ry="3" fill="#a88bd0" opacity=".3" stroke="none"/>
+    <path d="m32 27 12 6v11l-12 6-12-6V33Z" fill="#c9e9de" stroke-width="1.8"/>
+    <path d="m20 33 12 6 12-6-12-6Z" fill="#f7df86" stroke-width="1.8"/>
+    <path d="M32 39v11" fill="none" stroke-width="1.8"/>
+    <path d="M24 40q1-1.5 2 0m2 1q1-1.5 2 0M25 44q1.5 2 3 1" fill="none" stroke-width="1.2"/>
+    <path d="M39 12V5h7" fill="none" stroke-width="2"/>
+    <path d="m39 9-6 6h12Z" fill="#f7df86" stroke-width="2"/>
+
+    <path d="m56 3 1.5 3.5L61 8l-3.5 1.5L56 13l-1.5-3.5L51 8l3.5-1.5Z" fill="#f7df86" stroke-width="1.5"/>
+    <circle cx="5" cy="46" r="2" fill="#f3a6bd" stroke="none"/>
+  </g>
+</svg>

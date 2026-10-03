@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title desc">
+  <title id="title">Word skill sticker</title>
+  <desc id="desc">A blue Word document with a folded corner and a white W mark.</desc>
+  <metadata>Custom sticker illustration of the Microsoft Word document identity. Reference: https://www.microsoft.com/en-us/microsoft-365/word. Document tile, W path, border, and decorations are redrawn adaptations.</metadata>
+  <path d="M13 8h28l11 11v36H13Z" fill="#fffefa" stroke="#30253a" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M41 8v11h11" fill="#d9e9ff" stroke="#30253a" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M13 19h25v30H13Z" fill="#185abd"/>
+  <path d="m17 27 3 14h3l2-8 2 8h3l3-14h-3l-1.5 9-2-9h-3l-2 9-1.5-9Z" fill="#fffefa"/>
+  <path d="M42 28h6m-6 6h6m-6 6h6" stroke="#7baaf7" stroke-width="2" stroke-linecap="round"/>
+  <path d="m57 4 1.1 2.6 2.6 1.1-2.6 1.1-1.1 2.6-1.1-2.6-2.6-1.1 2.6-1.1Z" fill="#f7df86" stroke="#30253a" stroke-width="1.2" stroke-linejoin="round"/>
+  <circle cx="7" cy="48" r="2" fill="#f3a6bd"/>
+</svg>

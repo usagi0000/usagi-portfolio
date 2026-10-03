@@ -864,6 +864,7 @@
 
     .skill-tag {
       display: inline-flex;
+      max-width: 100%;
       min-height: 51px;
       align-items: center;
       gap: 10px;
@@ -880,22 +881,17 @@
 
     .skill-tag:hover { transform: perspective(700px) rotateX(7deg) rotateY(-5deg) translateY(-5px); border-color: var(--pink); box-shadow: 0 14px 20px rgba(62, 39, 73, .12); }
 
-    .skill-dot {
-      display: grid;
-      width: 29px;
-      height: 29px;
-      place-items: center;
-      border-radius: 10px;
-      background: color-mix(in srgb, var(--lilac) 34%, var(--surface));
-      color: #805fac;
-      font-size: .9rem;
+    .skill-label { min-width: 0; }
+
+    .skill-icon {
+      display: block;
+      width: 36px;
+      height: 36px;
+      flex: 0 0 36px;
       transition: transform .25s ease;
     }
 
-    .skill-tag:hover .skill-dot { transform: rotate(-16deg) scale(1.14); }
-
-    .skill-tag:nth-child(3n + 2) .skill-dot { background: color-mix(in srgb, var(--mint) 45%, var(--surface)); color: #387e6f; }
-    .skill-tag:nth-child(3n) .skill-dot { background: color-mix(in srgb, var(--pink) 28%, var(--surface)); color: #a54468; }
+    .skill-tag:hover .skill-icon { transform: rotate(-8deg) scale(1.08); }
 
     .interest-grid {
       display: grid;

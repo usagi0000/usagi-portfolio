@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title desc">
+  <title id="title">Next.js skill sticker</title>
+  <desc id="desc">The black Next.js circle and its white N with a fading extended diagonal, surrounded by a cream sticker border, happy face, and butter sparkle.</desc>
+  <metadata>Next.js symbol paths and gradients retained from Vercel's official brand asset, https://vercel.com/geist/brands. The mark is uniformly scaled; the cream sticker backing, face below the mark, and sparkle are custom decorations.</metadata>
+  <circle cx="31" cy="32" r="24" fill="#fffefa" stroke="#30253a" stroke-width="2.5"/>
+  <g transform="translate(11.5 9.5) scale(.39)">
+    <circle cx="50" cy="50" r="50" fill="#000"/>
+    <path d="M83.06 87.51 38.41 30H30v39.98h6.73V38.55l41.05 53.03a50 50 0 0 0 5.28-4.07" fill="url(#next-diagonal)"/>
+    <path d="M63.889 30h6.667v40h-6.667Z" fill="url(#next-stem)"/>
+  </g>
+  <g fill="#f3a6bd"><circle cx="23" cy="52" r="1.6"/><circle cx="39" cy="52" r="1.6"/></g>
+  <path d="M27 51q1-1.5 2 0m5 0q1-1.5 2 0m-6 3q2 2 4 0" fill="none" stroke="#30253a" stroke-width="1.6" stroke-linecap="round"/>
+  <path d="m56 3 1.5 3.5L61 8l-3.5 1.5L56 13l-1.5-3.5L51 8l3.5-1.5Z" fill="#f7df86" stroke="#30253a" stroke-width="1.5" stroke-linejoin="round"/>
+  <defs>
+    <linearGradient id="next-diagonal" x1="60.556" y1="64.722" x2="80.278" y2="89.167" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset=".604" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="next-stem" x1="67.222" y1="30" x2="67.111" y2="59.375" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>

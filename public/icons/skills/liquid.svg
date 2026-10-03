@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title desc">
+  <title id="title">Liquid skill sticker</title>
+  <desc id="desc">A turquoise water droplet carrying a dark curly-brace code motif.</desc>
+  <metadata>Original illustration for Shopify Liquid, inspired by the language's water name and template syntax. No third-party logo asset reused.</metadata>
+  <path d="M31 7C25 18 13 29 13 41a19 19 0 0 0 38 0C51 29 37 15 31 7Z" fill="#9ed8d0" stroke="#30253a" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M27 28c-4 0-4 3-4 6v1c0 2-1 3-3 4 2 1 3 2 3 4v1c0 3 0 6 4 6m10-22c4 0 4 3 4 6v1c0 2 1 3 3 4-2 1-3 2-3 4v1c0 3 0 6-4 6" fill="none" stroke="#30253a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m29 45 6-11" fill="none" stroke="#30253a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="m56 4 1.3 3.1L60.5 8.5l-3.2 1.3L56 13l-1.3-3.2-3.2-1.3 3.2-1.4Z" fill="#f7df86" stroke="#30253a" stroke-width="1.3" stroke-linejoin="round"/>
+  <circle cx="8" cy="45" r="2" fill="#f3a6bd"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title desc">
+  <title id="title">Satellite Image Processing skill sticker</title>
+  <desc id="desc">A smiling globe beneath a small satellite with solar panels.</desc>
+  <metadata>Original portfolio illustration. Uses the approved cream, plum, pink, butter, mint, and lilac illustration palette.</metadata>
+  <g stroke="#30253a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="28" cy="37" r="18" fill="#fffefa" stroke="#fffefa" stroke-width="6"/>
+    <circle cx="28" cy="37" r="18" fill="#cde5ee"/>
+    <path d="m15 25 7 2 4-4 5 2-3 7-5 2-1 8-7-1-4-7m28 0-5 8 1 6 7 1 4-7" fill="#a7d8c8" stroke="none"/>
+    <g fill="#f3a6bd" stroke="none"><ellipse cx="19" cy="39" rx="2.5" ry="1.6"/><ellipse cx="37" cy="39" rx="2.5" ry="1.6"/></g><path d="M21 36q2-3 4 0m6 0q2-3 4 0M26 40q2 2.5 4 0" fill="none" stroke="#30253a" stroke-width="1.9"/>
+    <g transform="rotate(-20 44 17)">
+      <rect x="40" y="12" width="10" height="11" rx="2" fill="#f7df86" stroke-width="2"/>
+      <path d="M40 17h-8m18 0h8M45 12V7" fill="none" stroke-width="2"/>
+      <rect x="29" y="12" width="8" height="10" rx="1" fill="#ddd0f4" stroke-width="1.8"/>
+      <rect x="53" y="12" width="8" height="10" rx="1" fill="#ddd0f4" stroke-width="1.8"/>
+      <path d="M29 17h8m16 0h8" fill="none" stroke-width="1"/>
+    </g>
+
+    <path d="m56 3 1.5 3.5L61 8l-3.5 1.5L56 13l-1.5-3.5L51 8l3.5-1.5Z" fill="#f7df86" stroke-width="1.5"/>
+    <circle cx="5" cy="46" r="2" fill="#f3a6bd" stroke="none"/>
+  </g>
+</svg>

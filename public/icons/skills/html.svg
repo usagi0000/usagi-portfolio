@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title desc">
+  <title id="title">HTML skill sticker</title>
+  <desc id="desc">An orange HTML5 shield with a happy face, pink cheeks, and a little yellow sparkle.</desc>
+  <metadata>Adapted from the HTML5 Logo by W3C, https://www.w3.org/html/logo/, licensed CC BY 3.0, https://creativecommons.org/licenses/by/3.0/. Changes: sticker border, face, and repositioned numeral.</metadata>
+  <path d="M10 7h44l-4 44-18 6-18-6Z" fill="#fffefa" stroke="#30253a" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M13 10h38l-3.5 38.8L32 54l-15.5-5.2Z" fill="#e34f26"/>
+  <path d="M32 13h15.7l-3 33.6L32 50.9Z" fill="#ef652a"/>
+  <g fill="#f3a6bd">
+    <ellipse cx="22" cy="21" rx="3" ry="1.8"/>
+    <ellipse cx="42" cy="21" rx="3" ry="1.8"/>
+  </g>
+  <path d="M23 17q2-3 4 0m10 0q2-3 4 0M30 21q2 2.5 4 0" fill="none" stroke="#30253a" stroke-width="2" stroke-linecap="round"/>
+  <g transform="translate(11.5 17) scale(.08)">
+    <path fill="#fffefa" d="M256 208h-75l-5-58h80V94H114l15 171h127Zm0 147-64-17-4-45h-56l7 89 117 32Z"/>
+    <path fill="#fff" d="M255 208v57h70l-7 73-63 17v59l116-32 16-174Zm0-114v56h137l5-56Z"/>
+  </g>
+  <path d="m56 3 1.5 3.5L61 8l-3.5 1.5L56 13l-1.5-3.5L51 8l3.5-1.5Z" fill="#f7df86" stroke="#30253a" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="7" cy="44" r="2" fill="#f3a6bd"/>
+</svg>

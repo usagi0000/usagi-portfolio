@@ -84,7 +84,7 @@ export const GAME_PROJECTS: GameProject[] = [
     focus: 'Shopify · Liquid · Front-end · E-commerce',
     meta: ['Pédaludique · April 2024 – May 2025', 'Custom educational-toy storefront'],
     bullets: ['Customized and developed the Pédaludique Shopify storefront using the Dawn theme.', 'Worked with Liquid, HTML, CSS, JavaScript, and Shopify metafields to create and customize storefront sections and product experiences.', 'Built responsive visual details and tailored components around the brand and its educational products.', 'Combined development with product visuals, illustration, and 3D assets so the storefront and product presentation worked together as one experience.'],
-    skills: ['Shopify', 'Liquid', 'Dawn Theme', 'HTML / CSS', 'JavaScript', 'Metafields'],
+    skills: ['Shopify', 'Liquid', 'Shopify Theme Development', 'HTML / CSS', 'JavaScript'],
     image: { src: '/images/pedaludique.png', alt: 'Pédaludique Shopify storefront' },
   },
   {

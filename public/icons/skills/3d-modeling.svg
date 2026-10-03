@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="title desc">
+  <title id="title">3D Modeling skill sticker</title>
+  <desc id="desc">A smiling isometric cube with pastel faces.</desc>
+  <metadata>Original portfolio illustration. Uses the approved cream, plum, pink, butter, mint, and lilac illustration palette.</metadata>
+  <g stroke="#30253a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="m32 10 20 12v23L32 57 12 45V22Z" fill="#fffefa" stroke="#fffefa" stroke-width="6"/>
+    <path d="m32 10 20 12v23L32 57 12 45V22Z" fill="#c9e9de"/>
+    <path d="m12 22 20 12 20-12-20-12Z" fill="#ddd0f4"/>
+    <path d="M32 34v23l20-12V22Z" fill="#a7d8c8"/>
+    <path d="M20 35q1.5-2 3 0m3 3q1.5-2 3 0M23 43q2 3 4 1" fill="none" stroke-width="1.8"/>
+    <path d="M18 39h.1m12 7h.1" stroke="#f3a6bd" stroke-width="3"/>
+
+    <path d="m56 3 1.5 3.5L61 8l-3.5 1.5L56 13l-1.5-3.5L51 8l3.5-1.5Z" fill="#f7df86" stroke-width="1.5"/>
+    <circle cx="5" cy="46" r="2" fill="#f3a6bd" stroke="none"/>
+  </g>
+</svg>
